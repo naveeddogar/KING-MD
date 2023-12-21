@@ -1,9 +1,9 @@
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
-    <img alt=Support height="350" src="https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg"> 
+    <img alt=Support height="350" src="https://i.imgur.com/INtcP8I.jpg"> 
     </p>
-<h1 align="center">    KING-MULTI-DEVICE (BETA)
+<h1 align="center">    𝄟✮͢🦋⃟≛⃝Dûßtø(Töñmöy)❥𝄟✮⃝♥️-MULTI-DEVICE (BETA)
 </h1>
 <p align="center"> 
   
@@ -12,7 +12,7 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/naveeddogar"><img title="Author" src="https://img.shields.io/badge/KING_MD-MULTI_DEVICE-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/naveeddogar"><img title="Author" src="https://img.shields.io/badge/𝄟✮͢🦋⃟≛⃝Dûßtø(Töñmöy)❥𝄟✮⃝♥️_MD-MULTI_DEVICE-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 
