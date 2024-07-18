@@ -1,14 +1,14 @@
 { 
-  "name": "KING-MD",
+  "name": "𝐀𝐌𝐄𝐄𝐑 𝐌𝐔𝐀𝐖𝐈𝐘𝐀",
   "description": "A Whatsapp md bot built By Naveed to make experience better",
-  "logo": "https://telegra.ph/file/5541dfe4dc8c2f51e3f02.jpg",
+  "logo": "https://i.ibb.co/Cb81NxN/251.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "King-Two", "KING-MD", "KING","king-Bot","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "OWNER NAME",
-      "value": "NAVEED DOGAR"
+      "value": "𝐀𝐌𝐄𝐄𝐑 𝐌𝐔𝐀𝐖𝐈𝐘𝐀"
   },
     "AUTO_STATUS_SAVER": {
       "description": "Automatically saves status of every person and sends in log number.",
@@ -29,7 +29,7 @@
     },
    "THUMB_IMAGE": {
     "description": "Put Your Image Url for bot logo",
-     "value": "https://telegra.ph/file/5541dfe4dc8c2f51e3f02.jpg"
+     "value": "https://i.ibb.co/Cb81NxN/251.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -58,17 +58,17 @@
       "CAPTION": {
     "description": "Fill the value your bot caption",
      "required" :false,
-     "value": "© GENERATE BY KING MD"
+     "value": "© GENERATE BY 𝐀𝐌𝐄𝐄𝐑 𝐌𝐔𝐀𝐖𝐈𝐘𝐀"
     },
       "READ_MESSAGE": {
     "description": "Fill the value true if you want bot to read all messages.",
      "required" :false,
-     "value": "true"
+     "value": "false"
     },
     "BOT_NAME": {
 	    "description": "Choose your bot name",
 	    "required": "true",
-	    "value": "*KING-MD*"
+	    "value": "*𝐀𝐌𝐄𝐄𝐑 𝐌𝐔𝐀𝐖𝐈𝐘𝐀*"
 },
     "DISABLE_PM": {
       "description": "Disable bot in pm",
@@ -81,10 +81,11 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "92Xxxxxxxx"
+       "value": "923472207399"
   },
    "SESSION_ID": {
     "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to KING-MD Github Repo U can find the Scanner Option"
+      "value": "KING-MD;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRUlnekFmOFcrTkdkeDRlalBOZTFjZGQ5V0V5b3ZDYWJqbWRqNVp2UEYwMD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRm9oSWRnVyt6L3AxY0tYMU1LZzR4eThxbEFHT3d3LzViK3NPWWFEeWJWcz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJjQUhxVWZsckxjK2x1VXRBWmR1Vm5wTEhVekJVdWJ6S0dtVisxWFBSZWtFPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIyZHlyOE9XZzYzNEhsTGlzVGdMT1drdk5NYzZBRzh3MkJGNFljdi8ySVdZPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IitBMWYrdzhmeStCdGVIMFZPZUtpUjlMUktPQXA5ZzRjUGRORjFaWjJaMzg9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IncvUFp1ZFMyRDU2U2MvT1BOaHB1MkZHcmJrTWdlYXY3SVc4blhrVGM2d3c9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZ0p2RVk2WkliQk1zQm9LdXI5Q2M1V245bWtOdHdzZThDRlJXSlFsR2ExZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMWlWSlVlM3RzRzloMGdDS1dhc3pQQlkycTJwR3djVC8wT1VzWkM1U0Fsdz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkFRa0lUUmZ0aG1mS0NJM0N2SDZ1Zm1TSjQzMmgwNUVmNW1xYU0rcVVTMkpHUUdPY0E0TUVtTDBraFVLRXZSeXZQbWlMTGpYWGdnNVo0ODVYU1RyR0RBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjU0LCJhZHZTZWNyZXRLZXkiOiJrWTdUWi83bEFpS3pmYVFidFZvdXpNUGNHQURqTWpJREFlZUdaMmVaMk5zPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJFTnp3SzdDaVROLVU1QnRXbkR5VzBnIiwicGhvbmVJZCI6ImRmMjNiNzllLTQzZjktNDNmMi04NmY1LWM5NTlhNTM2MGZiNiIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJuSmpWSWUwU2t6SmU3VEpIcnRmeDkwejZxWmc9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiYjlWbG5ISzlxQ1dESHV0UnUvRlZoM25IK1FjPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IjNCRFNONjNYIiwibWUiOnsiaWQiOiI5MjM0NzIyMDczOTk6NEBzLndoYXRzYXBwLm5ldCIsIm5hbWUiOiLgvIThtpzKs+G1g+G2u8q48J2ZsfCdmb7wnZqIIOC/kFxuXG5cblxuXG5cblxuXG5cblxuXG5cblxuXG5cblxuXG5cblxuXG5cblxuXG5cblxuXG5cblxuXG7kupcg8J2QgPCdkIzwnZCE8J2QhPCdkJEg8J2QjPCdkJTwnZCA8J2QlvCdkIjwnZCY8J2QgCDkupcifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0xxaXRzSUhFS2Z2dkxRR0dBSWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6IkN1d2grZU5DNTRZK3k0MzJJY3JYQW5WRDB4ZHFWOXA2Z1BtMTROUFY2Z009IiwiYWNjb3VudFNpZ25hdHVyZSI6ImdVbjZQRkswWUYycmdiSXpLOW1HRWE3a2xVSGZ5SzA3OGZHeXV2eEVRUXM3bHNaOWI2b096bXhlSWlVQlBBayt0NUgzMEZQVGlRemxOdWVnanlpL0RnPT0iLCJkZXZpY2VTaWduYXR1cmUiOiIrVm03QkNXTktuRHlJbFJvb2k0d0tFVzJnKzF6Nk4wZFN0VG9ubSt0aXhhTmkyWVV1RlZySjVGWVBsOXZuY2VMWG9xUEcrMUdQUGltdXJQK2YvL3RBQT09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjkyMzQ3MjIwNzM5OTo0QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlFyc0lmbmpRdWVHUHN1TjlpSEsxd0oxUTlNWGFsZmFlb0Q1dGVEVDFlb0QifX1dLCJwbGF0Zm9ybSI6InNtYmEiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MjA2NjE5NDAsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBTFI5In0="
   },
     "OPENAI_API_KEY": {
       "description": "put your OPENAI api key here.Get it from beta.openai.com ",
@@ -98,7 +99,7 @@
     }, 
     "REMOVE_BG_KEY": {
       "description": "put your REMOVE BG KEY here.Get it from removeBg.com ",
-      "value": "",
+      "value": "iWEwbzUZCZ2pHHFHm13tXbJk",
       "required" :false
     },
   "MONGODB_URI": {
@@ -116,11 +117,11 @@
   },
   "PACK_AUTHER": {
     "description": "PUT STICKER AUTHOR NAME",
-    "value": "naveeddogar"
+    "value": "𝐀𝐌𝐄𝐄𝐑_𝐌𝐔𝐀𝐖𝐈𝐘𝐀"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "king-mdbot"
+    "value": "𝐀𝐌𝐄𝐄𝐑-𝐌𝐔𝐀𝐖𝐈𝐘𝐀"
   },
   "heroku": {
     "description": "Weather it is on heroku or not",
